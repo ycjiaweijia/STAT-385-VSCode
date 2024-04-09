@@ -1,0 +1,18 @@
+# Projects with R
+
+
+
+
+{{< include 1.qmd >}}
+
+
+
+
+{{< include 2.qmd >}}
+
+
+
+## References {.unnumbered}
+
+::: {#refs}
+:::

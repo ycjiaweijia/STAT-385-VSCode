@@ -1,0 +1,10 @@
+# Preface {.unnumbered}
+This are the lecture notes for STAT 385: Statistics Programming Methods, offered in the Summer of 2024 at UIUC. If you have any comments/suggestions/concerns about the notes please contact me at <wjia@illinois.edu>.
+
+
+
+
+## References {.unnumbered}
+
+::: {#refs}
+:::
